@@ -1,19 +1,4 @@
-//w = 50;
-//h = 40;
-//d = 5;
-//
-//hw = 6;
-//hw_gap  =1;
-//count = w/(hw + hw_gap);
-//
-//difference(){
-//    cube([w,h,d]);
-//    for(i = [1:count-1]){
-//        color("red")
-//        translate([i *(hw+hw_gap),5,-1])
-//        cube([hw,h-10,d+2]);
-//    }
-//}
+
 
 x = 70;
 y = 70;
